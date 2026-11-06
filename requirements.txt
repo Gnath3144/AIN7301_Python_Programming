@@ -1,0 +1,10 @@
+# Week 1 uses only Python's standard library; no packages are needed yet.
+#
+# Add/uncomment packages only when a course activity requires them:
+# numpy
+# pandas
+# matplotlib
+# seaborn
+# requests
+# scikit-learn
+# jupyter

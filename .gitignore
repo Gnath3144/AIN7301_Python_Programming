@@ -1,0 +1,13 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Project virtual environment
+.venv/
+venv/
+
+# Editor and operating-system files
+.vscode/*
+!.vscode/settings.json
+.DS_Store
+Thumbs.db
